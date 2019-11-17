@@ -1,0 +1,199 @@
+{
+  "_id": "537f3aaac769230000be7e5f",
+  "binding": "Video Game",
+  "brand": "Encore Software",
+  "catalognumberlist": {
+    "CatalogNumberListElement": [
+      "4747836",
+      "8087601"
+    ]
+  },
+  "category": "/games/pc",
+  "currency": "USD",
+  "description": [
+    "Assassin'S Creed Ultimate Collection 1 & 2 Jc (Win Xpvistawin 7)"
+  ],
+  "ean": "0705381267324",
+  "esrbagerating": "Mature",
+  "feature": [
+    "Sequel to the original Assassin's Creed continues the storyline as you fight to uncover a conspiracy bigger than you could imagine",
+    "Utilize an arsenal of weapons",
+    "You are an Assassin, a warrior shrouded in secrecy and feared for your ruthlessness."
+  ],
+  "format": "CD-ROM",
+  "genre": "Fighting Action Games",
+  "hardwareplatform": "Pc",
+  "images": {
+    "large": {
+      "height": "467",
+      "url": "http://ecx.images-amazon.com/images/I/51i1Xy1BxHL.jpg",
+      "width": "500"
+    },
+    "medium": {
+      "height": "149",
+      "url": "http://ecx.images-amazon.com/images/I/51i1Xy1BxHL._SL160_.jpg",
+      "width": "160"
+    },
+    "small": {
+      "height": "70",
+      "url": "http://ecx.images-amazon.com/images/I/51i1Xy1BxHL._SL75_.jpg",
+      "width": "75"
+    }
+  },
+  "label": "Encore Software",
+  "manufacturer": "Encore Software",
+  "metadata": [
+    {
+      "key": "binding",
+      "value": "Video Game"
+    },
+    {
+      "key": "brand",
+      "value": "Encore Software"
+    },
+    {
+      "key": "catalognumberlist",
+      "value": {
+        "CatalogNumberListElement": [
+          "4747836",
+          "8087601"
+        ]
+      }
+    },
+    {
+      "key": "ean",
+      "value": "0705381267324"
+    },
+    {
+      "key": "esrbagerating",
+      "value": "Mature"
+    },
+    {
+      "key": "feature",
+      "value": [
+        "Sequel to the original Assassin's Creed continues the storyline as you fight to uncover a conspiracy bigger than you could imagine",
+        "Utilize an arsenal of weapons",
+        "You are an Assassin, a warrior shrouded in secrecy and feared for your ruthlessness."
+      ]
+    },
+    {
+      "key": "format",
+      "value": "CD-ROM"
+    },
+    {
+      "key": "genre",
+      "value": "Fighting Action Games"
+    },
+    {
+      "key": "hardwareplatform",
+      "value": "Pc"
+    },
+    {
+      "key": "label",
+      "value": "Encore Software"
+    },
+    {
+      "key": "manufacturer",
+      "value": "Encore Software"
+    },
+    {
+      "key": "model",
+      "value": "26732"
+    },
+    {
+      "key": "mpn",
+      "value": "26732"
+    },
+    {
+      "key": "numberofitems",
+      "value": 1
+    },
+    {
+      "key": "operatingsystem",
+      "value": "Windows 2000"
+    },
+    {
+      "key": "packagequantity",
+      "value": "1"
+    },
+    {
+      "key": "partnumber",
+      "value": "26732"
+    },
+    {
+      "key": "platform",
+      "value": [
+        "Windows 7",
+        "Windows Vista",
+        "Windows 2000",
+        "Windows XP"
+      ]
+    },
+    {
+      "key": "productgroup",
+      "value": "Video Games"
+    },
+    {
+      "key": "producttypename",
+      "value": "SOFTWARE_GAMES"
+    },
+    {
+      "key": "publisher",
+      "value": "Encore Software"
+    },
+    {
+      "key": "releasedate",
+      "value": {
+        "$date": "2011-09-01T00:00:00.000+0200"
+      }
+    },
+    {
+      "key": "studio",
+      "value": "Encore Software"
+    },
+    {
+      "key": "title",
+      "value": "Assassin's Creed I & II"
+    },
+    {
+      "key": "upc",
+      "value": "705381267324"
+    },
+    {
+      "key": "upclist",
+      "value": {
+        "UPCListElement": [
+          "705381267324"
+        ]
+      }
+    }
+  ],
+  "model": "26732",
+  "mpn": "26732",
+  "numberofitems": 1,
+  "operatingsystem": "Windows 2000",
+  "packagequantity": "1",
+  "partnumber": "26732",
+  "platform": [
+    "Windows 7",
+    "Windows Vista",
+    "Windows 2000",
+    "Windows XP"
+  ],
+  "price": 999,
+  "productgroup": "Video Games",
+  "producttypename": "SOFTWARE_GAMES",
+  "publisher": "Encore Software",
+  "releasedate": {
+    "$date": "2011-09-01T00:00:00.000+0200"
+  },
+  "salesrank": 1187,
+  "studio": "Encore Software",
+  "title": "Assassin's Creed I & II",
+  "upc": "705381267324",
+  "upclist": {
+    "UPCListElement": [
+      "705381267324"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+server:
+  ssl:    key-store: classpath:mohdasha.com.p12
+    key-store-type: PKCS12
+    key-store-password: 
+    key-alias: mohdasha
+spring:  data:    mongodb:      host: localhost
+      port: 27017
+      database: testdb
+#eureka:#  client:#    service-url:#      defaultZone: https://localhost:8761
+#management:#  endpoint:#    info:#      enabled: true
