@@ -3,22 +3,17 @@ package com.example.microservices.productservice.model;
 import java.util.List;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;
-
-import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
-import lombok.Value;
-import lombok.val;
-
 
 @Document
 @Getter
 @Setter
 @NoArgsConstructor
+@SuppressWarnings("unused")
 public class Product {
-	
 	@Id private String id;
 	private String brand;
 	private String category;
@@ -37,9 +32,11 @@ public class Product {
 		private String key;
 		private Object value;
 	}
+	
 	@Getter
 	@Setter
 	@ToString
+	@NoArgsConstructor
 	public class Image {
 		private Object large;
 		private Object medium;
